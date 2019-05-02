@@ -2,49 +2,73 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://zoechen1010.github.io/index.html</loc>
-    <lastmod>2019-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoechen1010.github.io/images/%E4%B8%BB%E8%A6%96%E8%A6%BA2.jpg</loc>
-    <lastmod>2019-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoechen1010.github.io/images/%E8%99%8E%E7%88%BA.png</loc>
-    <lastmod>2019-04-18</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://zoechen1010.github.io/images/%E7%9F%B3%E7%8D%85.png</loc>
-    <lastmod>2019-04-18</lastmod>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zoechen1010.github.io/images/logo.svg</loc>
-    <lastmod>2019-04-18</lastmod>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoechen1010.github.io/images/%E9%A0%86%E9%A2%A8%E8%80%B3.png</loc>
-    <lastmod>2019-04-18</lastmod>
+    <loc>http://zoechen1010.github.io/images/webpng.png</loc>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://zoechen1010.github.io/images/%E5%8D%83%E9%87%8C%E7%9C%BC.png</loc>
-    <lastmod>2019-04-18</lastmod>
+    <loc>http://zoechen1010.github.io/images/ig.png</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/fb.png</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/%E8%99%8E%E7%88%BA.png</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/%E4%B8%BB%E8%A6%96%E8%A6%BA2.jpg</loc>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://zoechen1010.github.io/images/%E9%BE%8D.png</loc>
-    <lastmod>2019-04-18</lastmod>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/%E9%A0%86%E9%A2%A8%E8%80%B3.png</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/%E5%8D%83%E9%87%8C%E7%9C%BC.png</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/play.svg</loc>
+    <lastmod>2019-05-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://zoechen1010.github.io/images/%E7%9F%B3%E7%8D%85.png</loc>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

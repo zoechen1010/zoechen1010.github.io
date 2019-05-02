@@ -1,21 +1,32 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="zoechen1010.github.io" resolutions="1x" timestamp="1555572451049">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="zoechen1010.github.io" resolutions="1x" timestamp="1556791407057">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="index.css" crc="66650731" ref="index"/>
+    <file name="index.css" crc="3954913313" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="163421577" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
     <file name="jquery.watch.js" crc="104486786" ref="index"/>
     <file name="require.js" crc="244322403" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="home-favicon.ico" crc="207373851" ref="index"/>
+    <file name="主視覺2.jpg" crc="3956573824" seo="true" ref="index"/>
     <file name="logo.svg" crc="279256335" seo="true" ref="index"/>
     <file name="logo_poster_.png" crc="4082632134" ref="index"/>
-    <file name="主視覺2.jpg" crc="3956573824" seo="true" ref="index"/>
-    <file name="u226-18.png" crc="249518805" ref="index"/>
+    <file name="主視覺22.jpg" crc="4254864107" ref="index"/>
+    <file name="u413-4.png" crc="248800567" ref="index"/>
+    <file name="u416-4.png" crc="294031881" ref="index"/>
+    <file name="u419-4.png" crc="4165894461" ref="index"/>
+    <file name="u422-4.png" crc="421943307" ref="index"/>
+    <file name="webpng.png" crc="360344690" seo="true" ref="index"/>
+    <file name="ig.png" crc="4277426111" seo="true" ref="index"/>
+    <file name="fb.png" crc="3953955352" seo="true" ref="index"/>
+    <file name="u531-4.png" crc="204966520" ref="index"/>
+    <file name="u226-18.png" crc="4159687505" ref="index"/>
     <file name="u270-6.png" crc="4178183125" ref="index"/>
     <file name="虎爺.png" crc="303817040" seo="true" ref="index"/>
     <file name="u282-6.png" crc="4184640374" ref="index"/>
@@ -25,7 +36,10 @@
     <file name="順風耳.png" crc="202960832" seo="true" ref="index"/>
     <file name="千里眼.png" crc="504769891" seo="true" ref="index"/>
     <file name="u266-6.png" crc="4204002259" ref="index"/>
+    <file name="play.svg" crc="473038716" seo="true" ref="index"/>
+    <file name="play_poster_.png" crc="163889004" ref="index"/>
+    <file name="u505-4.png" crc="76885370" ref="index"/>
     <file name="u315-4.png" crc="4028313191" ref="index"/>
   </folder>
-  <file name="index.html" crc="3795949543" seo="true" mt="1555528722766" redirect="true"/>
+  <file name="index.html" crc="4261912114" seo="true" mt="1556791242543" redirect="true"/>
 </manifest>
